@@ -2,4 +2,6 @@ Mouse
 Keyboard
 Laptop
 Microphone 
-Клавиатура
+КлавиатураМышка
+Мышка
+132132
